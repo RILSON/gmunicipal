@@ -1,0 +1,62 @@
+2015-10-25 00:43:23 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /avaliacao/statusavaliacoes
+Stack Trace:
+#0 C:\xampp\htdocs\avaliacao\src\Controller\StatusAvaliacoesController.php(21): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\StatusAvaliacoesController->index()
+#2 C:\xampp\htdocs\avaliacao\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\avaliacao\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 C:\xampp\htdocs\avaliacao\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\StatusAvaliacoesController))
+#5 C:\xampp\htdocs\avaliacao\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-10-25 00:43:28 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Statusavaliacao could not be found.
+Exception Attributes: array (
+  'class' => 'Statusavaliacao',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /avaliacao/statusavaliacao
+Stack Trace:
+#0 C:\xampp\htdocs\avaliacao\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-10-25 00:44:07 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /avaliacao/statusavaliacoes
+Stack Trace:
+#0 C:\xampp\htdocs\avaliacao\src\Controller\StatusAvaliacoesController.php(21): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\StatusAvaliacoesController->index()
+#2 C:\xampp\htdocs\avaliacao\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\avaliacao\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 C:\xampp\htdocs\avaliacao\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\StatusAvaliacoesController))
+#5 C:\xampp\htdocs\avaliacao\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2015-10-25 00:44:13 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Statusaaliacoes could not be found.
+Exception Attributes: array (
+  'class' => 'Statusaaliacoes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /avaliacao/statusaaliacoes
+Stack Trace:
+#0 C:\xampp\htdocs\avaliacao\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-10-25 00:44:19 Error: [RuntimeException] Unable to locate an object compatible with paginate.
+Request URL: /avaliacao/statusavaliacoes
+Stack Trace:
+#0 C:\xampp\htdocs\avaliacao\src\Controller\StatusAvaliacoesController.php(21): Cake\Controller\Controller->paginate(false)
+#1 [internal function]: App\Controller\StatusAvaliacoesController->index()
+#2 C:\xampp\htdocs\avaliacao\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\avaliacao\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 C:\xampp\htdocs\avaliacao\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\StatusAvaliacoesController))
+#5 C:\xampp\htdocs\avaliacao\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
